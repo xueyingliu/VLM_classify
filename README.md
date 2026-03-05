@@ -1,5 +1,5 @@
 
-# ACL-fig ResNet50 推理脚本（infer.py）
+# ACL-fig ResNet50 推理脚本
 
 对科学图片数据进行分类：读取图片 → ResNet50 前向推理 → 打印预测类别与概率。  
 
